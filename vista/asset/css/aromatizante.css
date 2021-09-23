@@ -1,0 +1,25 @@
+.imgAro{
+    width: 100%;
+}
+
+.introduccion{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left:3rem;
+
+}
+
+.introduccion__descripcion{
+    
+}
+
+.introduccion__enlace{
+    color: var(--colorPrimario);
+    font-weight: bold;
+}
+
+.introduccion__enlace:hover{
+    color: var(--colorPrimario);
+}
